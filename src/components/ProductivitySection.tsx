@@ -33,7 +33,7 @@ const ProductivitySection = () => {
   const [active, setActive] = useState(0);
 
   return (
-    <section className="bg-black py-32 border-t border-white/10">
+    <section id="solution" className="bg-black py-32 border-t border-white/10">
       <div className="max-w-7xl mx-auto px-6">
 
         {/* Header */}
