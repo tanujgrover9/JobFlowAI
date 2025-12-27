@@ -13,7 +13,7 @@ const App: React.FC = () => {
   return (
     <>
       <Navbar />
-      <main className="pt-20">
+      <main >
         <Hero />
         <TrustedBy/>
         <ProductivitySection/>
